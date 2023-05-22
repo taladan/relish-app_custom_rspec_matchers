@@ -1,4 +1,4 @@
-# between.rb
+# between_spec.rb
 
 RSpec::Matchers.define :be_bigger_than do |first|
   match do |actual|
